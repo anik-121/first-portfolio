@@ -152,7 +152,10 @@ nav .menu a{
   font-weight: 700;
 }
 
-
+.two-btn{
+  display: flex;
+  gap: 4px;
+}
 
 
 #skills .skills-container {
@@ -287,6 +290,7 @@ footer .footer-container{
 
 .section-heading h2 {
     font-size: 30px;
+    margin-left: 12px;
 }
   #about , #skills , #resume{
   padding-top: 100px;
@@ -316,7 +320,7 @@ footer .footer-container{
     gap: 216px; */
 }
 #resume .resume-container{
-  margin-left: 10px ;
+  margin-left: 14px ;
   margin-top: 60px;
 }
 .resume-card{
@@ -333,6 +337,7 @@ nav .menu{
 #banner{
   margin:20px;
   gap: 20px;
+  
 }
 #banner .banner-image img{
   max-width: 100%;
@@ -350,4 +355,15 @@ nav .menu{
       
   }
 
+  #banner .banner-content h2 {
+    margin-left: 12px;
+    margin-bottom: 5px;
+}
+#banner .banner-content h1{
+  margin-left: 12px;
+}
+
+#banner .banner-content p{
+  margin-left: 12px;
+}
 }
