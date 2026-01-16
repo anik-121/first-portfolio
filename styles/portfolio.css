@@ -336,7 +336,7 @@ nav .menu{
 }
 #banner .banner-image img{
   max-width: 100%;
-  margin-top: 150px;
+  /* margin-top: 150px; */
   
 }
 
@@ -345,7 +345,7 @@ nav .menu{
     center left ,center right;
     background-size:
       80px , 700px;
-      height: 200vh;
+      height: 233vh;
       background-image: none;
       
   }
